@@ -28,4 +28,4 @@
 1. **Asegúrate de tener Python instalado junto con las dependencias requeridas:**
    ```bash
    pip install customtkinter CTkTable
-2.python DataBase.py   
+2.python DataBase.py
